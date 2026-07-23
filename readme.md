@@ -31,7 +31,7 @@ Most dehumidifiers use a 3/4 GHT thread for a garden hose that you can use to ca
 
 ### "3/4GHT to 1/2 Tubing" Piece
 
-![Threaded adapter](Images/CAD_Threaded_Adatpter.png)
+![Threaded adapter](Images/CAD_Threaded_Adapter.png)
 
 ## Real World Images
 
