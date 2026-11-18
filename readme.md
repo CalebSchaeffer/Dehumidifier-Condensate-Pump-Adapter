@@ -16,6 +16,10 @@ Most dehumidifiers use a 3/4 GHT thread for a garden hose that you can use to ca
 - If you are 3D printing this, use more walls than you usually need, and maybe bump up the flow a bit. Especially for the 3/4GHT to 1/2 tube part. Ideally you want it water tight, but you can also use some sort of sealant if you would like. I did not find this necessary.
 - No supports needed. Print "Little Giant" upside down, and use a brim if you are having trouble with bed adhesion or a fast bed slinger.  
 
+## V3 Update
+
+- "Little Giant" piece is slightly bigger for a more snug fit.
+- "Little Giant" durability improvements.
 
 # Images
 ## CAD Images
